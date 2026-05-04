@@ -5,7 +5,7 @@ export default function Compliance() {
     <section id="compliance" className="py-24 bg-zinc-900 border-y border-zinc-800">
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
-          
+
           {/* Content */}
           <div>
             <h2 className="text-4xl font-bold tracking-tight text-zinc-50 leading-tight">
@@ -51,7 +51,7 @@ export default function Compliance() {
           <div className="relative lg:ml-auto">
             <div className="relative w-full max-w-md aspect-square bg-zinc-950 rounded-full border border-zinc-800 flex items-center justify-center p-8 shadow-2xl overflow-hidden group">
               <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-zinc-800/40 via-zinc-950 to-zinc-950 opacity-50 group-hover:from-emerald-900/20 group-hover:opacity-100 transition-all duration-700" />
-              
+
               {/* Document Sim */}
               <div className="relative z-10 w-full rounded-2xl bg-zinc-900 border border-zinc-800 p-6 shadow-xl transform rotate-3 hover:rotate-0 transition-transform duration-500">
                 <div className="w-12 h-12 bg-emerald-500/10 rounded-xl flex items-center justify-center mb-6">
