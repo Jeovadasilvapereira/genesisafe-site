@@ -23,7 +23,7 @@ export default function FeaturesGrid() {
               Fim da Papelada
             </h3>
             <p className="text-zinc-400 leading-relaxed group-hover:text-zinc-300 transition-colors">
-              Selecione funcionários previamente cadastrados, colete assinaturas digitais na tela do celular e gere laudos periciais enxutos e organizados.
+              Selecione funcionários previamente cadastrados, colete assinaturas digitais na tela do celular e gere registros técnicos enxutos e organizados.
             </p>
           </div>
 

@@ -8,17 +8,17 @@ export default function HeroSection() {
 
       <div className="max-w-7xl mx-auto px-6 relative z-10">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-8 items-center">
-          
+
           {/* Left Column: Copy */}
           <div className="max-w-2xl">
             <h1 className="text-5xl md:text-6xl font-extrabold tracking-tighter leading-tight text-zinc-50">
               Da Indústria ao Canteiro de Obras: A Evolução do <span className="text-amber-400">Diálogo Diário de Segurança.</span>
             </h1>
-            
+
             <p className="text-xl text-zinc-400 mt-6 leading-relaxed">
-              O primeiro sistema de emissão de DDS com validade pericial, tradução bilíngue automática e coleta de assinaturas digitais diretamente na tela do celular. Blinde a sua empresa contra passivos trabalhistas.
+              Seu sistema de emissão de DDS com rastreabilidade jurídica, tradução bilíngue automática e coleta de assinaturas digitais diretamente na tela do celular. Blinde a sua empresa contra passivos trabalhistas.
             </p>
-            
+
             <div className="mt-10 flex flex-col sm:flex-row gap-4">
               <a
                 href="https://gdds.genesisafe.com.br/auth"
@@ -30,7 +30,7 @@ export default function HeroSection() {
                 <ChevronRight className="ml-2 w-5 h-5" />
               </a>
             </div>
-            
+
             <div className="mt-8 flex items-center gap-4 text-sm text-zinc-500">
               <div className="flex items-center gap-1.5">
                 <CheckCircle className="w-4 h-4 text-emerald-400" />
@@ -47,7 +47,7 @@ export default function HeroSection() {
           <div className="relative mx-auto w-full max-w-lg lg:max-w-none">
             {/* Decorative background elements for mockup */}
             <div className="absolute inset-0 bg-gradient-to-tr from-amber-500/20 to-emerald-500/5 rounded-3xl blur-2xl transform rotate-3" />
-            
+
             {/* The Mockup Frame */}
             <div className="relative bg-zinc-900/80 backdrop-blur-xl border border-zinc-800 rounded-3xl shadow-2xl shadow-zinc-950/50 p-2 overflow-hidden">
               {/* Browser/App Header */}
@@ -62,7 +62,7 @@ export default function HeroSection() {
                   gdds.genesisafe.com.br
                 </div>
               </div>
-              
+
               {/* Mockup Content */}
               <div className="p-6 bg-zinc-950 rounded-b-2xl">
                 <div className="flex items-center justify-between mb-6">

@@ -14,7 +14,7 @@ export default function Pricing() {
         </div>
 
         <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto items-center">
-          
+
           {/* Card 1: PRO */}
           <div className="bg-zinc-900 p-10 rounded-3xl border border-zinc-800 flex flex-col h-full hover:border-zinc-700 transition-colors">
             <div>
@@ -27,7 +27,7 @@ export default function Pricing() {
               <ul className="space-y-4 mb-10">
                 <li className="flex items-start gap-3">
                   <Check className="w-5 h-5 text-zinc-500 shrink-0 mt-0.5" />
-                  <span className="text-zinc-300">PDF Pericial validado por QR Code</span>
+                  <span className="text-zinc-300">Documento Rastreável por QR Code</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Check className="w-5 h-5 text-zinc-500 shrink-0 mt-0.5" />
@@ -43,7 +43,7 @@ export default function Pricing() {
                 </li>
               </ul>
             </div>
-            
+
             <a
               href="https://gdds.genesisafe.com.br/auth"
               target="_blank"
@@ -59,7 +59,7 @@ export default function Pricing() {
             <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-amber-400 text-zinc-950 px-4 py-1 rounded-full font-bold text-sm tracking-wide">
               MAIS POPULAR
             </div>
-            
+
             <div>
               <h3 className="text-xl font-bold text-amber-400 mb-2">Plano CORPORATIVO</h3>
               <p className="text-sm text-zinc-400 mb-6">O melhor valor para empresas e SESMT.</p>
@@ -86,7 +86,7 @@ export default function Pricing() {
                 </li>
               </ul>
             </div>
-            
+
             <a
               href="https://gdds.genesisafe.com.br/auth"
               target="_blank"

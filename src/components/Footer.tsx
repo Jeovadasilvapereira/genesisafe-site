@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="bg-zinc-950 border-t border-zinc-900 pt-16 pb-8">
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid md:grid-cols-4 gap-12 mb-12">
-          
+
           <div className="md:col-span-2">
             <div className="flex items-center gap-2 mb-6">
               <ShieldCheck className="w-8 h-8 text-amber-400" />
@@ -14,7 +14,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-zinc-400 max-w-sm leading-relaxed mb-6">
-              A evolução do Diálogo Diário de Segurança. Blinde sua operação com tecnologia, validade pericial e inclusão.
+              A evolução do Diálogo Diário de Segurança. Blinde sua operação com tecnologia, rastreabilidade jurídica.
             </p>
             <div className="p-4 rounded-xl bg-zinc-900 border border-zinc-800 inline-block">
               <p className="text-xs text-zinc-500 uppercase font-semibold tracking-wider mb-2">Desenvolvido por</p>
@@ -33,9 +33,9 @@ export default function Footer() {
               <li><a href="#compliance" className="text-zinc-400 hover:text-white transition-colors text-sm">Compliance</a></li>
               <li><a href="#precos" className="text-zinc-400 hover:text-white transition-colors text-sm">Preços</a></li>
               <li>
-                <a 
-                  href="https://gdds.genesisafe.com.br/auth" 
-                  target="_blank" 
+                <a
+                  href="https://gdds.genesisafe.com.br/auth"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="text-amber-400 hover:text-amber-300 transition-colors text-sm font-medium"
                 >
