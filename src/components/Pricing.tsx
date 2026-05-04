@@ -27,7 +27,7 @@ export default function Pricing() {
               <ul className="space-y-4 mb-10">
                 <li className="flex items-start gap-3">
                   <Check className="w-5 h-5 text-zinc-500 shrink-0 mt-0.5" />
-                  <span className="text-zinc-300">Documento Rastreável por QR Code</span>
+                  <span className="text-zinc-300">Documento Rastreável validado por QR Code</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Check className="w-5 h-5 text-zinc-500 shrink-0 mt-0.5" />
