@@ -17,11 +17,11 @@ export default function Footer() {
               A evolução do Diálogo Diário de Segurança. Blinde sua operação com tecnologia, rastreabilidade jurídica.
             </p>
             <div className="p-4 rounded-xl bg-zinc-900 border border-zinc-800 inline-block">
-              <p className="text-xs text-zinc-500 uppercase font-semibold tracking-wider mb-2">Desenvolvido por</p>
+              <p className="text-xs text-zinc-500 uppercase font-semibold tracking-wider mb-2">Responsabilidade Técnica</p>
               <p className="text-sm text-zinc-300 font-medium whitespace-pre-wrap">
-                JEOVÁ DA SILVA PEREIRA
+                Jeová Silva
                 {'\n'}
-                <span className="text-zinc-500 font-normal">Engenheiro Eletricista e de Segurança do Trabalho - CREA-GO</span>
+                <span className="text-zinc-500 font-normal">Engenheiro de Segurança do Trabalho (CREA-GO) e Engenheiro Eletricista</span>
               </p>
             </div>
           </div>
@@ -55,12 +55,9 @@ export default function Footer() {
 
         </div>
 
-        <div className="pt-8 border-t border-zinc-900 text-center md:text-left flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-sm text-zinc-500">
-            © 2026 Genesi Safebot. Todos os direitos reservados.
-          </p>
-          <p className="text-xs text-zinc-600">
-            CNPJ: 00.000.000/0000-00
+        <div className="pt-8 border-t border-zinc-900 text-center flex flex-col md:flex-row justify-between items-center gap-4">
+          <p className="text-sm text-zinc-500 mx-auto">
+            G-DDS PRO © 2026 - Todos os direitos reservados.
           </p>
         </div>
       </div>
