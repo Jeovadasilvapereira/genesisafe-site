@@ -46,7 +46,7 @@ export default function Footer() {
           </div>
 
           <div>
-            <h4 className="text-zinc-100 font-bold mb-6">Legal</h4>
+            <h4 className="text-zinc-100 font-bold mb-6">Jurídico</h4>
             <ul className="space-y-4">
               <li><a href="https://gdds.genesisafe.com.br/termos" target="_blank" rel="noopener noreferrer" className="text-zinc-400 hover:text-white transition-colors text-sm">Termos de Uso</a></li>
               <li><a href="https://gdds.genesisafe.com.br/termos" target="_blank" rel="noopener noreferrer" className="text-zinc-400 hover:text-white transition-colors text-sm">Política de Privacidade e LGPD</a></li>
