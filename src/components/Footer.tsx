@@ -57,7 +57,7 @@ export default function Footer() {
 
         <div className="pt-8 border-t border-zinc-900 text-center flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-zinc-500 mx-auto">
-            G-DDS PRO © 2026 - Todos os direitos reservados.
+            GENESI SAFEBOT © 2026 - Todos os direitos reservados.
           </p>
         </div>
       </div>
