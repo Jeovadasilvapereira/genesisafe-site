@@ -27,7 +27,7 @@ export default function Header() {
         {/* Action Button */}
         <div>
           <a
-            href="https://gdds.genesisafe.com.br/auth"
+            href="https://play.google.com/store/apps/details?id=com.genesisafe.gddspro"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center px-6 py-2.5 text-sm font-medium text-zinc-50 border border-zinc-700 rounded-lg hover:bg-zinc-800 transition-all duration-300"

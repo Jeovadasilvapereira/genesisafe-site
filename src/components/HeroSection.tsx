@@ -21,7 +21,7 @@ export default function HeroSection() {
 
             <div className="mt-10 flex flex-col sm:flex-row gap-4">
               <a
-                href="https://gdds.genesisafe.com.br/auth"
+                href="https://play.google.com/store/apps/details?id=com.genesisafe.gddspro"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-8 py-4 bg-amber-400 text-zinc-950 font-bold rounded-xl text-lg hover:bg-amber-300 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-amber-900/20"

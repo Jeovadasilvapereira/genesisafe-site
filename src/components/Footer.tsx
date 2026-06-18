@@ -34,7 +34,7 @@ export default function Footer() {
               <li><a href="#precos" className="text-zinc-400 hover:text-white transition-colors text-sm">Preços</a></li>
               <li>
                 <a
-                  href="https://gdds.genesisafe.com.br/auth"
+                  href="https://play.google.com/store/apps/details?id=com.genesisafe.gddspro"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-amber-400 hover:text-amber-300 transition-colors text-sm font-medium"
