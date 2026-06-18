@@ -49,7 +49,7 @@ export default function Pricing() {
             </div>
 
             <a
-              href="https://play.google.com/store/apps/details?id=com.genesisafe.gddspro"
+              href="https://gdds.genesisafe.com.br/auth"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-auto block w-full py-4 px-6 text-center text-zinc-50 font-bold border border-zinc-700 rounded-xl hover:bg-zinc-800 hover:border-zinc-600 transition-all"
@@ -100,7 +100,7 @@ export default function Pricing() {
             </div>
 
             <a
-              href="https://play.google.com/store/apps/details?id=com.genesisafe.gddspro"
+              href="https://gdds.genesisafe.com.br/auth"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-auto block w-full py-4 px-6 text-center bg-amber-400 text-zinc-950 font-bold rounded-xl hover:bg-amber-300 transition-all transform hover:scale-105"
@@ -143,7 +143,7 @@ export default function Pricing() {
             </div>
 
             <a
-              href="https://play.google.com/store/apps/details?id=com.genesisafe.gddspro"
+              href="https://gdds.genesisafe.com.br/auth"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-auto block w-full py-4 px-6 text-center text-zinc-50 font-bold border border-zinc-700 rounded-xl hover:bg-zinc-800 hover:border-zinc-600 transition-all"
